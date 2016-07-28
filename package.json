@@ -1,0 +1,28 @@
+{
+  "name": "@types/react-relay",
+  "version": "0.0.0",
+  "description": "Typescript definitions for Relay",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graphcool/react-relay-types.git"
+  },
+  "keywords": [
+    "relay",
+    "react-relay",
+    "typescript",
+    "graphql"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/graphcool/react-relay-types/issues"
+  },
+  "homepage": "https://github.com/graphcool/react-relay-types#readme",
+  "dependencies": {
+    "@types/react": "^0.14.27"
+  }
+}
