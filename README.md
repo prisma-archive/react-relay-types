@@ -1,4 +1,6 @@
 # react-relay-types
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/graphcool/react-relay-types.svg)](https://greenkeeper.io/)
 Typescript definitions for Relay
 
 ## Install
